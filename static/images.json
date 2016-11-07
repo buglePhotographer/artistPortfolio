@@ -1,0 +1,17 @@
+[
+	{
+		"name": "picture 1",
+		"desc": "desc picture 1",
+		"path": "http://localhost:8080/portfolio-page/static/images/a4-paper.jpg"
+	}, 
+	{
+		"name": "picture 2",
+		"desc": "desc picture 2",
+		"path": "http://localhost:8080/portfolio-page/static/images/business-card.jpg"
+	}, 
+	{
+		"name": "picture 3",
+		"desc": "desc picture 3",
+		"path": "http://localhost:8080/portfolio-page/static/images/business-card-26.jpg"
+	}
+]
